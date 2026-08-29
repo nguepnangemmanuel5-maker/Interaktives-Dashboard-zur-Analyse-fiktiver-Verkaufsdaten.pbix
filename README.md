@@ -22,6 +22,3 @@ Interaktives Power-BI-Dashboard zur Analyse fiktiver Verkaufsdaten, mit Auswertu
 2. Die `.pbix`-Datei aus diesem Repository herunterladen.
 3. Die Datei direkt mit Power BI Desktop öffnen.
 
-## Vorschau
-
-*(Hier ein oder zwei Screenshots des Dashboards einfügen: Bilder direkt im GitHub-Editor per Drag & Drop einfügen, oder in einen Ordner `screenshots/` legen und mit `![Vorschau](screenshots/page1.png)` einbinden.)*
