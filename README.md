@@ -9,6 +9,11 @@ Interaktives Power-BI-Dashboard zur Analyse fiktiver Verkaufsdaten, mit Auswertu
 - **Infobulle vente par région** — individuelles Tooltip, das beim Überfahren mit der Maus angezeigt wird
 - **Ruban vente par produit** — Ribbon-Chart zur Entwicklung des Produkt-Rankings
 
+## Vorschau
+
+📄 [Dashboard als PDF ansehen](Sales_Dashboard.pdf)
+  
+
 ## Technologien
 
 - Power BI Desktop
